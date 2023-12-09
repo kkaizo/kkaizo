@@ -6,7 +6,7 @@
 Overwatch all time
 
 ## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=zSlxwzy&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=zSlxwzy&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=A020F0)
 
 ## Lenguajes Utilizados
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=zSlxwzy&layout=compact&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
