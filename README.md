@@ -6,10 +6,10 @@
 Overwatch all time
 
 ## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=zSlxwzy&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=A020F0)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=zSlxwzy&show_icons=true&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=000000)
 
 ## Lenguajes Utilizados
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=zSlxwzy&layout=compact&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=zSlxwzy&layout=compact&title_color=A020F0&icon_color=A020F0&text_color=ffffff&bg_color=000000)
 
 ## Discord
 <a href="[https://www.buymeacoffee.com/cc0d3r](https://www.instagram.com/r_fayuth/)">
